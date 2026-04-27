@@ -32,7 +32,7 @@ DATA_PATHS = [
 ## ▶️ Run Code
 
 ```bash
-python train.py
+python main.py
 ```
 
 ---
